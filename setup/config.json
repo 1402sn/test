@@ -1,0 +1,29 @@
+{
+  "setup": {
+    "city": "chiang rai",
+    "delay": 5
+  },
+  "config": {
+    "options": {
+      "watch-url": ["https://www.youtube.com/watch?v=8k6C_3Q4S1o"],
+      "timestamp": "{start}"
+    },
+    "text-1": ["TEXT 1"],
+    "text-2": ["TEXT 2"],
+    "text-3": ["TEXT 3"],
+    "bigimg": ["{default:bigimg}"],
+    "smallimg": ["{default:smallimg}"],
+    "button-1": [
+      {
+        "name": "BUTTON 1",
+        "url": "https://discord.gg/XDPfrU4E9G"
+      }
+    ],
+    "button-2": [
+      {
+        "name": "BUTTON 2",
+        "url": "https://discord.gg/XDPfrU4E9G"
+      }
+    ]
+  }
+}
